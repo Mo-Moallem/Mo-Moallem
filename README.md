@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Fadi Moallem
+- 👋 Hi, I’m Mohammed F. Moallem
 - 👀 I’m interested in web app dev
 - 🌱 I’m currently learning telegram bot building via python
 - 📫 How to reach me: dm in twiter @Mu7ammad_M_
