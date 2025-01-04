@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohammed F. Moallem
+- 👋 Hi, I’m Mohammed Moallem
 - 👀 I’m interested in web app dev
-- 🌱 I’m currently learning telegram bot building via python
-- 📫 How to reach me: dm in twiter @Mu7ammad_M_
+- 🌱 I’m currently learning css
+- 📫 How to reach me: dev.mohammed.moallem@gmail.com
 
 <!---
 IcePhoenix7/IcePhoenix7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
