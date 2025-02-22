@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Moallem
-- 👀 I’m interested in web app dev
+- 📖 I’m learning web dev
 - 📫 How to reach me: dev.moallem@gmail.com
 
 <!---
