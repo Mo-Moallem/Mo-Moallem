@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Moallem
-- 📖 I’m learning web dev
+- 📖 I’m learning low level programming (c) and oprating systesms 
 - 📫 How to reach me: dev.moallem@gmail.com
 
 <!---
