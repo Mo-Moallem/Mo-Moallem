@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Moallem
-- 📖 I’m learning low level programming (c) and oprating systesms 
+- 📖 I’m learning Swift 
 - 📫 How to reach me: dev.moallem@gmail.com
 
 <!---
